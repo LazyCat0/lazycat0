@@ -9,10 +9,9 @@ I'm just junior developer that can write on Java, Kotlin, Python and C#
 [LazyMCLaucnher](https://github.com/LazyCat0/LazyMCLauncher-CLI) and [LazyChat - Minecraft Paper plugin](https://github.com/LazyCat0/LazyChat-MC-plugin)
 
 
-## 📝Most used languages of programming which I used...
+## 📝Which language I prefer to use for coding?
 
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lazycat0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+I prefer use Java and C#.
 
 ## 🤔 Which licence I prefer to use?..
 
